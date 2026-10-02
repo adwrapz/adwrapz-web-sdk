@@ -1,0 +1,28 @@
+{
+  "name": "@adwrapz/web-sdk",
+  "version": "0.1.0",
+  "description": "AdWrapz Web SDK — ads-only IMA wrapper for Ads Vast pre-roll pods",
+  "author": "Extics Co., Ltd.",
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://adwrapz.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adwrapz/adwrapz-web-sdk.git"
+  },
+  "main": "adwrapz.js",
+  "types": "adwrapz.d.ts",
+  "jsdelivr": "adwrapz.js",
+  "unpkg": "adwrapz.js",
+  "sideEffects": true,
+  "files": [
+    "adwrapz.js",
+    "adwrapz.d.ts"
+  ],
+  "keywords": [
+    "adwrapz",
+    "vast",
+    "ima",
+    "video-ads",
+    "preroll"
+  ]
+}
